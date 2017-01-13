@@ -13,3 +13,35 @@
  *= require_tree .
  *= require_self
  */
+
+
+body {
+	padding: 0px;
+	margin: 0px;
+
+}
+
+header {
+	background-image: asset-data-url('cat-bed.jpg'); 
+	height: 500px;
+	width: auto;
+	background-size: cover;
+	margin-top: 1px;
+	padding: 0px;
+	margin-top: -50px;
+	
+}
+
+.nomsite {
+	color: #66a39b;
+	font-size: 70px;
+	text-align: center;
+	padding-top: 17%;
+	text-decoration: none;
+}
+
+h1 {
+	text-align: center;
+	color: #66a39b;
+	align-items: center;
+}
