@@ -31,3 +31,38 @@ h1 {
 	color: #66a39b;
 	align-items: center;
 }
+
+table {
+	th {
+	color: #EDBB10;
+	font-size: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+	}
+
+	td {
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+	}
+}
+
+table{
+	margin: 50px;
+}
+
+.laptitephrase {
+	text-align: center;
+	font-size: 25px;
+	color: #151c1c;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 25px;
+}
+
+div {
+	display: inline-block;
+	color: #EDBB10;
+	margin: 15px;
+}
